@@ -2,7 +2,7 @@
 I am a passionate full-stack developer constantly evolving through both work and continuous learning, employing a diverse set of tools to craft robust solutions.
 
 #### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,vite,tailwind,alpinejs,nodejs,express,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,vite,tailwind,alpinejs,nodejs,express,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
 
 <!--
 **meirlamdan/meirlamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
