@@ -2,7 +2,8 @@
 I am a passionate full-stack developer constantly evolving through both work and continuous learning, employing a diverse set of tools to craft robust solutions.
 
 #### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,vite,tailwind,alpinejs,nodejs,express,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?i=html" title=Html alt=""> <img src="https://skillicons.dev/icons?i=css" title=Css alt="Css"> <img src="https://skillicons.dev/icons?i=js" title=Js alt="JavaScript"> <img src="https://skillicons.dev/icons?i=ts" title=TypeScript alt="ts"> <img src="https://skillicons.dev/icons?i=vue&theme=light" title=Vue alt="vue"> <img src="https://skillicons.dev/icons?i=nuxtjs&theme=light" title=Nuxt alt="Nuxt"> <img src="https://skillicons.dev/icons?i=react&theme=light" title=React alt="React"> <img src="https://skillicons.dev/icons?i=vite&theme=light" title=Vite alt="Vite"> <img src="https://skillicons.dev/icons?i=tailwind&theme=light" title=Tailwind alt="Tailwind"> <img src="https://skillicons.dev/icons?i=alpinejs&theme=light" title=Alpinejs alt="Alpinejs"> <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title=Nodejs alt="Nodejs"> <img src="https://skillicons.dev/icons?i=express&theme=light" title=Express alt="Express"> <img src="https://skillicons.dev/icons?i=postgres&theme=light" title=Postgres alt="Postgres"> <img src="https://skillicons.dev/icons?i=mongodb&theme=light" title=Mongodb alt="Mongodb"> <img src="https://skillicons.dev/icons?i=sequelize&theme=light" title=Sequelize alt="Sequelize">
 
 <!--
 **meirlamdan/meirlamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
